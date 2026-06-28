@@ -1,7 +1,5 @@
-# Mika_SQL_Projects
+# Pizza Business Analysis Project (SQL Project 1)
 
-
-## Pizza Business Analysis Project (SQL Project 1)
 ### Overview
 
 This project focuses on analysing the backend operations and business performance of a pizza business using MySQL. The objective was to design a structured relational database, analyse operational data, and extract business insights related to orders, sales performance, inventory management, and staffing.
